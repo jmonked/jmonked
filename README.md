@@ -48,8 +48,8 @@ creative  MONKED · monked.si
 |:--|:--|
 | AWS Certified Cloud Practitioner (CLF-C02) | 📖 <img src="https://img.shields.io/badge/In%20progress-2563EB?style=flat-square" alt="In progress"/> |
 | AWS Certified AI Practitioner (AIF-C01) | 🧭 <img src="https://img.shields.io/badge/Planned%2C%20next-334155?style=flat-square" alt="Planned, next"/> |
-| Undergraduate Certificate in Artificial Intelligence, ODU (university) | 🎓 <img src="https://img.shields.io/badge/In%20progress%2C%20exp.%202027-2563EB?style=flat-square" alt="In progress, exp. 2027"/> |
-| More AWS certifications | 🗺️ <img src="https://img.shields.io/badge/Goal%3A%20several%20in%20~1%20year-334155?style=flat-square" alt="Goal: several in ~1 year"/> |
+| Undergraduate Certificate in Artificial Intelligence, ODU (university) | 🎓 In progress, exp. 2027 |
+| More AWS certifications | 🗺️ Goal: several in ~1 year |
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
