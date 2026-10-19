@@ -2,8 +2,6 @@
 <!-- COLOR VARIANT A (refined): electric blue primary, teal sparingly. Provisional, not final brand. -->
 <p align="center"><img src="./assets/banner.svg" alt="Julian Monk — Cloud + AI · Learning in Public" width="100%"/></p>
 
-<p align="center"><b>Tech sales → cloud + AI, learning in public</b></p>
-
 <p align="center">
 I've spent about two years in sales, most recently in technology sales, learning how people choose and use tech.<br/>
 Now I'm learning to build it: studying AWS, working with AI tools, and sharing my progress here.<br/>
@@ -35,8 +33,8 @@ My creative side is <b>MONKED</b>, a personal space for experimenting with AI an
 
 | Certification | Status |
 |:--|:--|
-| AWS Certified Cloud Practitioner (CLF-C02) | 📖 <img src="https://img.shields.io/badge/In%20progress-2563EB?style=flat-square" alt="In progress"/> |
-| AWS Certified AI Practitioner (AIF-C01) | 🧭 <img src="https://img.shields.io/badge/Planned%2C%20next-334155?style=flat-square" alt="Planned, next"/> |
+| AWS Certified Cloud Practitioner (CLF-C02) | 📖 In progress |
+| AWS Certified AI Practitioner (AIF-C01) | 🧭 Planned, next |
 | Undergraduate Certificate in Artificial Intelligence, ODU (university) | 🎓 In progress, exp. 2027 |
 | More AWS certifications | 🗺️ Goal: several in ~1 year |
 
@@ -63,21 +61,21 @@ My creative side is <b>MONKED</b>, a personal space for experimenting with AI an
 <td width="100%" valign="top">
 <b>aws-cloud-practitioner-notes</b><br/>
 <sub>CLF-C02 study notes and cheat sheets, written in public.</sub><br/>
-<sub><code>Markdown</code> <code>AWS</code></sub>
+<img src="https://img.shields.io/badge/Markdown-334155?style=flat-square" alt="Markdown"/> <img src="https://img.shields.io/badge/AWS-334155?style=flat-square" alt="AWS"/>
 </td>
 </tr>
 <tr>
 <td width="100%" valign="top">
 <b>s3-cloudfront-static-site</b><br/>
 <sub>Beginner AWS project: a static site on S3 + CloudFront with HTTPS, documented step by step.</sub><br/>
-<sub><code>S3</code> <code>CloudFront</code> <code>ACM</code></sub>
+<img src="https://img.shields.io/badge/S3-334155?style=flat-square" alt="S3"/> <img src="https://img.shields.io/badge/CloudFront-334155?style=flat-square" alt="CloudFront"/> <img src="https://img.shields.io/badge/ACM-334155?style=flat-square" alt="ACM"/>
 </td>
 </tr>
 <tr>
 <td width="100%" valign="top">
 <b>ai-tools</b><br/>
 <sub>Small scripts and AI workflows built while learning Python.</sub><br/>
-<sub><code>Python (learning)</code> <code>AI APIs</code></sub>
+<img src="https://img.shields.io/badge/Python-learning-2563EB?style=flat-square&labelColor=334155" alt="Python (learning)"/> <img src="https://img.shields.io/badge/AI%20APIs-334155?style=flat-square" alt="AI APIs"/>
 </td>
 </tr>
 </table>
