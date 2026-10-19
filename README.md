@@ -1,6 +1,7 @@
 <!-- BRAND: banner/logo goes here (should match avatar, monked.si logo, and favicon) -->
+<!-- COLOR VARIANT A (refined): electric blue primary, teal sparingly. Provisional, not final brand. -->
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner_dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/banner_light.svg"/><img src="./assets/banner_light.svg" alt="Julian Monk — Cloud + AI · Learning in Public" width="100%"/></picture></p>
 
-<h2 align="center">Hey, I'm Julian Monk 👋</h2>
 <p align="center"><b>Tech sales → cloud + AI, learning in public</b></p>
 
 <p align="center">
@@ -25,22 +26,32 @@ My creative side is <b>MONKED</b>, a personal space for experimenting with AI an
 $ whoami
 name      Julian Monk
 location  Lafayette, LA
-from      ~2 years in sales (tech sales most recently)
+from      ~2 yrs sales (tech)
 heading   cloud + AI
-studying  AWS Cloud Practitioner (CLF-C02)   [in progress]
-learning  Python, SQL                        [learning]
-school    ODU · Undergrad Certificate in AI  [in progress, exp. 2027]
-creative  MONKED · monked.si                 [coming soon]
+studying  AWS CLF-C02
+learning  Python, SQL
+school    ODU · AI Certificate
+creative  MONKED · monked.si
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-learning-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=334155" alt="AWS (learning)"/>
+  <img src="https://img.shields.io/badge/Python-learning-2563EB?style=flat-square&logo=python&logoColor=white&labelColor=334155" alt="Python (learning)"/>
+  <img src="https://img.shields.io/badge/SQL-learning-2563EB?style=flat-square&logo=postgresql&logoColor=white&labelColor=334155" alt="SQL (learning)"/>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## ☁️ Cert path
 
 | Certification | Status |
 |:--|:--|
-| AWS Certified Cloud Practitioner (CLF-C02) | 📖 In progress |
-| AWS Certified AI Practitioner (AIF-C01) | 🧭 Planned, next |
-| Undergraduate Certificate in Artificial Intelligence, ODU (university) | 🎓 In progress, exp. 2027 |
-| More AWS certifications | 🗺️ Goal: several in ~1 year |
+| AWS Certified Cloud Practitioner (CLF-C02) | 📖 <img src="https://img.shields.io/badge/In%20progress-2563EB?style=flat-square" alt="In progress"/> |
+| AWS Certified AI Practitioner (AIF-C01) | 🧭 <img src="https://img.shields.io/badge/Planned%2C%20next-334155?style=flat-square" alt="Planned, next"/> |
+| Undergraduate Certificate in Artificial Intelligence, ODU (university) | 🎓 <img src="https://img.shields.io/badge/In%20progress%2C%20exp.%202027-2563EB?style=flat-square" alt="In progress, exp. 2027"/> |
+| More AWS certifications | 🗺️ <img src="https://img.shields.io/badge/Goal%3A%20several%20in%20~1%20year-334155?style=flat-square" alt="Goal: several in ~1 year"/> |
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 🧰 Projects
 
@@ -51,7 +62,7 @@ creative  MONKED · monked.si                 [coming soon]
 <td width="100%" valign="top">
 <b>MONKED</b><br/>
 <sub>My personal creative space for experimenting with AI, technology, and interactive web experiences. Currently exploring its design and direction.</sub><br/>
-<sub>Status: 🧪 Early development / creative exploration</sub>
+<sub>Status: 🧪</sub> <img src="https://img.shields.io/badge/Early%20development%20%2F%20creative%20exploration-0F766E?style=flat-square" alt="Early development / creative exploration"/>
 </td>
 </tr>
 </table>
@@ -60,23 +71,29 @@ creative  MONKED · monked.si                 [coming soon]
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="100%" valign="top">
 <b>aws-cloud-practitioner-notes</b><br/>
 <sub>CLF-C02 study notes and cheat sheets, written in public.</sub><br/>
 <sub><code>Markdown</code> <code>AWS</code></sub>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 <b>s3-cloudfront-static-site</b><br/>
 <sub>Beginner AWS project: a static site on S3 + CloudFront with HTTPS, documented step by step.</sub><br/>
 <sub><code>S3</code> <code>CloudFront</code> <code>ACM</code></sub>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 <b>ai-tools</b><br/>
 <sub>Small scripts and AI workflows built while learning Python.</sub><br/>
 <sub><code>Python (learning)</code> <code>AI APIs</code></sub>
 </td>
 </tr>
 </table>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
 ## 📂 More
 
@@ -95,14 +112,23 @@ creative  MONKED · monked.si                 [coming soon]
 <summary><b>🛠️ Tools I use</b></summary>
 <br/>
 
-Git · GitHub · VS Code / Cursor · Codex · Claude Code · Grok Bot
+<p>
+  <img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code%20%2F%20Cursor-334155?style=flat-square" alt="VS Code / Cursor"/>
+  <img src="https://img.shields.io/badge/Codex-334155?style=flat-square" alt="Codex"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-334155?style=flat-square&logo=claude&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Grok%20Bot-334155?style=flat-square" alt="Grok Bot"/>
+</p>
 </details>
 
 <details>
 <summary><b>🤝 Why sales → cloud</b></summary>
 <br/>
 
-Sales taught me to listen for the problem behind the request. Cloud and AI are how those problems get solved, and I want to be able to build the solution, not just recommend it.
+> Sales taught me to listen for the problem behind the request. Cloud and AI are how those problems get solved, and I want to be able to build the solution, not just recommend it.
 </details>
 
 <!-- BRAND: footer divider/accent goes here -->
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
