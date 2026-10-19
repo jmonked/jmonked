@@ -1,6 +1,6 @@
 <!-- BRAND: banner/logo goes here (should match avatar, monked.si logo, and favicon) -->
 <!-- COLOR VARIANT A (refined): electric blue primary, teal sparingly. Provisional, not final brand. -->
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner_dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/banner_light.svg"/><img src="./assets/banner_light.svg" alt="Julian Monk — Cloud + AI · Learning in Public" width="100%"/></picture></p>
+<p align="center"><img src="./assets/banner.svg" alt="Julian Monk — Cloud + AI · Learning in Public" width="100%"/></p>
 
 <p align="center"><b>Tech sales → cloud + AI, learning in public</b></p>
 
@@ -26,6 +26,7 @@ My creative side is <b>MONKED</b>, a personal space for experimenting with AI an
   <img src="https://img.shields.io/badge/AWS-learning-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=334155" alt="AWS (learning)"/>
   <img src="https://img.shields.io/badge/Python-learning-2563EB?style=flat-square&logo=python&logoColor=white&labelColor=334155" alt="Python (learning)"/>
   <img src="https://img.shields.io/badge/SQL-learning-2563EB?style=flat-square&logo=postgresql&logoColor=white&labelColor=334155" alt="SQL (learning)"/>
+  <img src="https://img.shields.io/badge/AI%2FML-learning-2563EB?style=flat-square&labelColor=334155" alt="AI/ML (learning)"/>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
@@ -92,6 +93,7 @@ My creative side is <b>MONKED</b>, a personal space for experimenting with AI an
 - **AWS:** core services, security, pricing, and Well-Architected basics
 - **Python:** learning, early days
 - **SQL:** learning, early days
+- **AI/ML:** learning the basics (ODU AI certificate coursework)
 - **AI (school):** Undergraduate Certificate in Artificial Intelligence, Old Dominion University School of Data Science (in progress, expected Spring 2027)
 - **AI:** building with AI tools and learning where they fit in cloud workflows
 </details>
