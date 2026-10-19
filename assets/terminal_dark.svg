@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="604" height="462" viewBox="0 0 604 462" role="img" aria-labelledby="t d">
+<title id="t">Terminal: whoami</title><desc id="d">whoami: name Julian Monk; location Lafayette, LA; from ~2 yrs tech sales; focus cloud + AI; studying AWS CLF-C02; learning Python, SQL, AI/ML basics; school ODU · AI Certificate; creative MONKED · monked.si; next AIF-C01 (AI Practitioner)</desc>
+<style>.cur{animation:blink 1s step-end infinite}@keyframes blink{50%{opacity:0}}@media (prefers-reduced-motion: reduce){.cur{animation:none}}</style>
+<defs><clipPath id="c"><rect x="2" y="2" width="600" height="458" rx="12"/></clipPath></defs>
+<rect x="2" y="2" width="600" height="458" rx="12" fill="#111A2E"/>
+<g clip-path="url(#c)"><rect x="2" y="2" width="600" height="48" fill="#18233A"/></g>
+<rect x="2" y="50" width="600" height="2" fill="#2563EB" opacity="0.9"/>
+<rect x="2.5" y="2.5" width="599" height="457" rx="11.5" fill="none" stroke="#3B5384"/>
+<circle cx="28" cy="26.0" r="7" fill="#FF5F57"/>
+<circle cx="50" cy="26.0" r="7" fill="#FEBC2E"/>
+<circle cx="72" cy="26.0" r="7" fill="#28C840"/>
+<text x="302.0" y="32.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#A3B1C6">julian@monked — terminal</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="23" xml:space="preserve">
+<text x="32" y="90"><tspan fill="#4ADE80" font-weight="700">julian@monked:~$</tspan><tspan fill="#FFFFFF"> whoami</tspan></text>
+<text y="124"><tspan x="32" fill="#2DD4BF">name</tspan><tspan x="170.0" fill="#E2E8F0">Julian Monk</tspan></text>
+<text y="158"><tspan x="32" fill="#2DD4BF">location</tspan><tspan x="170.0" fill="#E2E8F0">Lafayette, LA</tspan></text>
+<text y="192"><tspan x="32" fill="#2DD4BF">from</tspan><tspan x="170.0" fill="#E2E8F0">~2 yrs tech sales</tspan></text>
+<text y="226"><tspan x="32" fill="#2DD4BF">focus</tspan><tspan x="170.0" fill="#E2E8F0">cloud + AI</tspan></text>
+<text y="260"><tspan x="32" fill="#2DD4BF">studying</tspan><tspan x="170.0" fill="#E2E8F0">AWS </tspan><tspan fill="#93C5FD">CLF-C02</tspan></text>
+<text y="294"><tspan x="32" fill="#2DD4BF">learning</tspan><tspan x="170.0" fill="#E2E8F0">Python, SQL, AI/ML basics</tspan></text>
+<text y="328"><tspan x="32" fill="#2DD4BF">school</tspan><tspan x="170.0" fill="#E2E8F0">ODU · AI Certificate</tspan></text>
+<text y="362"><tspan x="32" fill="#2DD4BF">creative</tspan><tspan x="170.0" fill="#E2E8F0">MONKED · </tspan><tspan fill="#93C5FD">monked.si</tspan></text>
+<text y="396"><tspan x="32" fill="#2DD4BF">next</tspan><tspan x="170.0" fill="#93C5FD">AIF-C01</tspan><tspan fill="#E2E8F0"> (AI Practitioner)</tspan></text>
+<text x="32" y="430" fill="#4ADE80" font-weight="700">❯</text>
+<rect class="cur" x="59.599999999999994" y="411.6" width="13.799999999999999" height="23" fill="#4ADE80"/>
+</g></svg>
