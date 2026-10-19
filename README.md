@@ -20,19 +20,7 @@ My creative side is <b>MONKED</b>, a personal space for experimenting with AI an
   <a href="https://www.instagram.com/monkedd_/">Instagram</a>
 </p>
 
-<br/>
-
-```text
-$ whoami
-name      Julian Monk
-location  Lafayette, LA
-from      ~2 yrs sales (tech)
-heading   cloud + AI
-studying  AWS CLF-C02
-learning  Python, SQL
-school    ODU · AI Certificate
-creative  MONKED · monked.si
-```
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal_dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/terminal_light.svg"/><img src="./assets/terminal_light.svg" alt="whoami: name Julian Monk; location Lafayette, LA; from ~2 yrs tech sales; focus cloud + AI; studying AWS CLF-C02; learning Python, SQL, AI/ML basics; school ODU · AI Certificate; creative MONKED · monked.si; next AIF-C01 (AI Practitioner)" width="600"/></picture></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-learning-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=334155" alt="AWS (learning)"/>
