@@ -118,7 +118,7 @@ My creative side is <b>MONKED</b> (in development), an experimental space for AI
 
 Gaming, clips, and MONKED/Defiy stuff (OSRS humor included):
 
-<a href="https://x.com/idefiy">X</a> · <a href="https://www.youtube.com/@idefiyy">YouTube</a> · <a href="https://www.twitch.tv/idefiyy">Twitch</a> · <a href="https://www.tiktok.com/@jmonked">TikTok</a> · <a href="https://www.instagram.com/monkedd_">Instagram</a> · <a href="https://www.reddit.com/user/Defiy-">Reddit</a>
+<a href="https://x.com/idefiy">X</a> · <a href="https://www.youtube.com/@idefiyy">YouTube</a> · <a href="https://www.twitch.tv/idefiyy">Twitch</a> · <a href="https://www.tiktok.com/@jmonked">TikTok</a> · <a href="https://www.instagram.com/monkedd_">Instagram</a> · <a href="https://www.reddit.com/user/iDefiy">Reddit</a>
 </details>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
